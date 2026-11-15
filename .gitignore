@@ -1,0 +1,5 @@
+# Raw data is not committed (files exceed GitHub's 100 MB limit)
+*.csv
+*.csv.gz
+data/
+.ipynb_checkpoints/
